@@ -38,10 +38,17 @@ Do you want to check a password? (y/n): y
 Enter your password: ********
 
 Password Analysis:
+
 Lowercase letters : 4
+
 Uppercase letters : 2
+
 Digits            : 2
+
 Whitespaces       : 0
+
 Special characters: 1
+
 Strength Score    : 5/5
+
 Remarks           : Very strong password. Excellent security!
