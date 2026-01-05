@@ -26,8 +26,11 @@ This project is useful for everyone to understand string handling, functions, lo
 - Python 3
 - Built-in modules:
   - `string`
-  - `getpass`
-##Sample output
+  - `getpass`.
+
+
+📌 Sample Output
+
   
 ===== Password Strength Checker =====
 
